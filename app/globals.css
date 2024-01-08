@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* import '@fontsource/roboto'; */
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -16,12 +18,107 @@
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+ h1{
+  font-size: 3rem;
+  line-height: 3rem;
+  font-weight: 600;
+}
+h2{
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+h3{
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 700;
+  font-stretch: 0.025rem;
+}
+
+h4{
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+h5{
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+h6{
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+p{
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-family: sans-serif;
+}
+
+.p_bold{
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+}
+
+.p_light{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+}
+
+.tag_text{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+}
+
+.gradient-border {
+  /* border-top: 3px solid; */
+  border-image: linear-gradient(to right, #3B82F6, #22C55E,#CAFE00);
+  border-image-slice: 1;
+}
+
+.gradient-text {
+  background-image: linear-gradient(to top, #22C55E, #CAFE00);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.skill-image{
+  background-image: url('/image/skills-02.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 720px;
+  width: 400px;
+}
+
+.competitive-image{
+  background-image: url('/image/skills-03.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 720px;
+  width: 400px;
+}
+
+@layer components {
+.border_light{
+  @apply border-t gradient-border from-c_primary via-c_secondary to-c_ternary;
+}
+
+.big_btn{
+  @apply bg-gradient-to-r 
+}
+
+.btn_main{
+  @apply bg-c_bg_dark
+}
+
+.bg_content_dark{
+  @apply bg-gradient-to-r from-[#18181B] via-[#18181B] to-[#18181B]
+}
+
 }
