@@ -323,4 +323,8 @@ p{
   @apply bg-gradient-to-r from-[#18181B] via-[#18181B] to-[#18181B]
 }
 
+.dark_gradient{
+  @apply bg-gradient-to-r from-[#27272A] via-[#27272A] to-[#27272A]
+}
+
 }

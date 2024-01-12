@@ -1,4 +1,4 @@
-import { faFacebook, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faFacebook, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope, faPhone, faX } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Link from 'next/link'
@@ -19,6 +19,10 @@ const SocialContact = () => {
             <div className="flex flex-row mt-3">
             <FontAwesomeIcon icon={faEnvelope} className='w-6 h-6 text-gray-500 me-3' />
             <p className='text-gray-300 p_light'>Email:  alriyadkarim@gmail.com </p>
+            </div>
+            <div className="flex flex-row mt-3">
+            <FontAwesomeIcon icon={faWhatsapp} className='w-6 h-6 text-gray-500 me-3' />
+            <p className='text-gray-300 p_light'>Whatsapp: +8801732461622 </p>
             </div>
             <div className="flex flex-row mt-3">
             <FontAwesomeIcon icon={faLinkedin} className='w-6 h-6 text-gray-500 me-3' />
