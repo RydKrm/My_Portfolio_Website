@@ -7,7 +7,7 @@ import OnsiteContest from './OnsiteContest'
 
 const Competitive = () => {
   return (
-        <div className="container w-full text-white bg_content_dark">
+    <div className="container w-full text-white bg_content_dark">
       <div className="flex flex-col-reverse md:flex-row">
        <CompetitiveJourney />
        <OnlineJudge />
