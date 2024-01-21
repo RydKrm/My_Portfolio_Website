@@ -16,13 +16,18 @@ const Project1 = () => {
         <div className="flex flex-col ms-8">
           <Link href='/' className='mt-10 mb-4 text-4xl font-medium hover:text-c_ternary'>Crypto website development for DeFi X</Link>
           <p className='text-gray-300 p_light'>The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.</p>
+           <div className="flex flex-row mt-5 mb-3">
+             <Link href='/' className='px-3 py-1 rounded-md bg-c_primary me-3' >Live Link </Link>
+             <Link href='/' className='px-3 py-1 rounded-md bg-c_secondary me-3' >Client Code </Link>
+             <Link href='/' className='px-3 py-1 bg-red-500 rounded-md me-3' >Server Code </Link>
+           </div>
           <p className='mt-3 text-base font-semibold text-[#60A5FA]'>Technologies</p>
            <div className="flex flex-col mt-2 md:flex-row">
              <span class="inline-block select-none px-3 py-1 uppercase no-underline bg-c_secondary/10 hover:bg-c_secondary/20 text-c_secondary m-0.5 font-mono text-sm lg:mr-2">next</span>
              <span class="inline-block select-none px-3 py-1 uppercase no-underline bg-c_secondary/10 hover:bg-c_secondary/20 text-c_secondary m-0.5 font-mono text-sm lg:mr-2">typeScript</span>
              <span class="inline-block select-none px-3 py-1 uppercase no-underline bg-c_secondary/10 hover:bg-c_secondary/20 text-c_secondary m-0.5 font-mono text-sm lg:mr-2">MongoDB</span>
              <span class="inline-block select-none px-3 py-1 uppercase no-underline bg-c_secondary/10 hover:bg-c_secondary/20 text-c_secondary m-0.5 font-mono text-sm lg:mr-2">Tailwind CSS</span>
-           </div>
+           </div> 
            <div className="flex flex-wrap mt-5">
             <div className="flex flex-col basis-1/2">
               <p className='mt-2 text-base font-semibold text-[#60A5FA]'>Duration</p> 
@@ -33,11 +38,7 @@ const Project1 = () => {
               <p className="p_light">Full Stack Developer</p> 
             </div>
            </div>
-           <div className="flex flex-row mt-5">
-             <Link href='/' className='px-3 py-1 rounded-md bg-c_primary me-3' >Live Link </Link>
-             <Link href='/' className='px-3 py-1 rounded-md bg-c_secondary me-3' >Client Code </Link>
-             <Link href='/' className='px-3 py-1 bg-red-500 rounded-md me-3' >Server Code </Link>
-           </div>
+          
         </div>
       </div>
     </div>

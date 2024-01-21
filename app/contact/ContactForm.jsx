@@ -1,5 +1,4 @@
 import React from 'react'
-
 const ContactForm = () => {
   return (
     <div className="w-full border-[1px] lg:w-2/3 border-gray-500 m-5 ms-10 mt-12">
