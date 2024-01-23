@@ -41,9 +41,11 @@ const Navbar = () => {
       {menuOpen && (
         <div className="flex flex-col justify-end p-4 text-c_secondary hover:text-c_ternary">
           <Link href="#" className="block py-2">Home</Link>
-          <Link href="#" className="block py-2">About</Link>
-          <Link href="#" className="block py-2">Services</Link>
-          <Link href="#" className="block py-2">Contact</Link>
+          <Link href="/competitive" className="block py-2">Competitive</Link>
+          <Link href="/project" className="block py-2">Projects</Link>
+          <Link href="/skill" className="block py-2">Skills</Link>
+          <Link href='/service' className='block py-2'>Service</Link>
+          <Link href='/contact' className='block py-2'>Contact</Link>
         </div>
       )}
     </nav>

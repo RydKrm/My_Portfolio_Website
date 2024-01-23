@@ -14,7 +14,7 @@ const Project1 = () => {
           /> </div>
       <div className="w-full lg:w-1/2">
         <div className="flex flex-col ms-8">
-          <Link href='/' className='mt-10 mb-4 text-4xl font-medium hover:text-c_ternary'>Crypto website development for DeFi X</Link>
+          <Link href={`/project/${1}`} className='mt-10 mb-4 text-4xl font-medium hover:text-c_ternary'>Crypto website development for DeFi X</Link>
           <p className='text-gray-300 p_light'>The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.</p>
            <div className="flex flex-row mt-5 mb-3">
              <Link href='/' className='px-3 py-1 rounded-md bg-c_primary me-3' >Live Link </Link>
