@@ -2,8 +2,12 @@ import Image from 'next/image';
 import React from 'react'
 import ImageGallery from './ImageGallery';
 import Link from 'next/link';
+import project_data from '../../../public/data/project_data';
+import { useRouter } from 'next/navigation';
 
 const page = () => {
+  const router = useRouter();
+  const { id } = router.query;
   return (
      <div className="container w-full text-white bg_content_dark">
      <div className="flex flex-col justify-center pt-16 md:flex-row">

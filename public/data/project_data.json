@@ -1,0 +1,363 @@
+[
+  {
+    "_id":1,
+    "name": "Empower Rise Crowed Funding App",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "title": "Used to collect fund for helpless people and Donated",
+    "profile_image": "https://i.ibb.co/cDFkckq/screencapture-empower-rise-web-app-2024-01-21-10-17-03.png",
+    "image_array": [
+        "https://i.ibb.co/cDFkckq/screencapture-empower-rise-web-app-2024-01-21-10-17-03.png", 
+        "https://i.ibb.co/gy1hHk2/screencapture-empower-rise-web-app-Fund-2024-01-21-10-18-05.png", 
+        "https://i.ibb.co/fS8wdY0/screencapture-empower-rise-web-app-Donation-2024-01-21-10-17-40.png",
+        "https://i.ibb.co/KbJKwwn/screencapture-empower-rise-web-app-blogs-2024-01-21-10-18-24.png",
+        "https://i.ibb.co/p32gMRK/screencapture-empower-rise-web-app-dashboard-user-Donation-Table-2024-01-21-10-19-06.png",
+        "https://i.ibb.co/XxrN9Lx/screencapture-empower-rise-web-app-dashboard-user-Notification-2024-01-21-10-18-42.png",
+        "https://i.ibb.co/cDFkckq/screencapture-empower-rise-web-app-2024-01-21-10-17-03.png",
+        "https://i.ibb.co/qsB0Whp/screencapture-empower-rise-web-app-login-2024-01-21-10-20-33.png",
+        "https://i.ibb.co/7WFMDCs/screencapture-empower-rise-web-app-dashboard-edit-Fund-2024-01-21-10-20-16.png",
+        "https://i.ibb.co/HXbHXGf/screencapture-empower-rise-web-app-dashboard-edit-Donation-2024-01-21-10-20-03.png",
+        "https://i.ibb.co/YXcWq9J/screencapture-empower-rise-web-app-dashboard-donation-Request-2024-01-21-10-19-46.png"
+
+
+    ],
+    "live_link": "https://empower-rise.web.app/",
+    "server_link": "https://github.com/RydKrm/EmpowerRise-server",
+    "client_link": "https://github.com/RydKrm/EmpowerRise-client",
+    "technology_list": ["React", "Node.js", "MongoDB","Express.js","Firebase","Tailwind CSS","Axios"],
+    "duration": "15 Days",
+    "role": "Full Stack Developer"
+  },
+  {
+    "_id":2,
+    "name": "Book Treasure Sells Old and New Books",
+    "description": "",
+    "title": "User can sell old and new books and Also can donated books",
+    "profile_image": "https://i.ibb.co/VBGvZzT/screencapture-book-treasure-hub-vercel-app-2024-01-21-10-06-14.png",
+    "image_array": ["https://i.ibb.co/VBGvZzT/screencapture-book-treasure-hub-vercel-app-2024-01-21-10-06-14.png",
+                    "https://i.ibb.co/6N2Cn1q/screencapture-book-treasure-hub-vercel-app-book-2024-01-21-10-07-48.png", 
+                    "https://i.ibb.co/7Wnwq9b/screencapture-book-treasure-hub-vercel-app-about-2024-01-21-10-08-21.png",
+                    "https://i.ibb.co/SrF2y0T/screencapture-book-treasure-hub-vercel-app-login-2024-01-21-10-08-42.png"
+        ],
+    "live_link": "https://book-treasure-hub.vercel.app/",
+    "server_link": "https://github.com/RydKrm/BookTreasure-Server",
+    "client_link": "https://github.com/RydKrm/BookTreasureClient/",
+    "technology_list": ["React.js", "Express.js", "Node.js","MongoDB","Tailwind CSS","Axios","Firebase"],
+    "duration": "1 months",
+    "role": "Full Stack Developer"
+  },{
+    "_id":3,
+    "name": "Dev Pallete Hub Developer Solution",
+    "description": "",
+    "title": "A developer project Showcase , QNA, Blog, Tutorial Website",
+    "profile_image": "https://i.ibb.co/KVkjV9Y/screencapture-localhost-3001-2024-01-21-10-12-32.png",
+    "image_array": ["https://i.ibb.co/KVkjV9Y/screencapture-localhost-3001-2024-01-21-10-12-32.png",
+                    "https://i.ibb.co/nLBqJXZ/screencapture-localhost-3001-blogs-2024-01-21-10-15-45.png", 
+                    "https://i.ibb.co/VMMXvn3/screencapture-localhost-3001-projects-2024-01-21-10-15-16.png",
+                    "https://i.ibb.co/8YShGm8/screencapture-localhost-3001-projects-2024-01-21-10-14-53.png",
+                    "https://i.ibb.co/RTJ7ZWR/screencapture-localhost-3001-register-2024-01-21-10-16-21.png",
+                    "https://i.ibb.co/nLBqJXZ/screencapture-localhost-3001-blogs-2024-01-21-10-15-45.png"
+        ],
+    "live_link": "https://dev-pallete-hub.vercel.app/",
+    "Github_link": "https://github.com/RydKrm/Dev_Pallete_Hub",
+    "technology_list": ["Next.js", "ShadCN UI", "Node.js","MongoDB","Mongoose","Tailwind CSS","Firebase"],
+    "duration": "Running",
+    "role": "Next.js Developer"
+  },{
+    "_id":3,
+    "name": "Threadzone Multi-vendor E-commerce Website",
+    "description": "",
+    "title": "Sells Product by creating Shop and Buying Product ",
+    "profile_image": "https://i.ibb.co/zhJdFcR/screencapture-threadzone-30d7b-web-app-2024-01-21-10-21-35.png",
+    "image_array": [
+                    "https://i.ibb.co/zhJdFcR/screencapture-threadzone-30d7b-web-app-2024-01-21-10-21-35.png", 
+                    "https://i.ibb.co/B23dsk6/screencapture-threadzone-30d7b-web-app-login-2024-01-21-10-22-55.png",
+                    "https://i.ibb.co/LtGPgP3/screencapture-threadzone-30d7b-web-app-product-2024-01-21-10-22-19.png",
+                    "https://i.ibb.co/ssRz0BN/screencapture-threadzone-30d7b-web-app-shop-Cart-2024-01-21-10-22-39.png"
+                  
+        ],
+    "live_link": "https://dev-pallete-hub.vercel.app/",
+    "client_link": "https://github.com/Abu-Sahad/threadZone-client",
+    "server_link":"https://github.com/Abu-Sahad/threadZone-server",
+    "technology_list": ["React", "Node.js", "MongoDB","Express.js","Firebase","Tailwind CSS","Axios"],
+    "duration": "1 months",
+    "role": "Full Stack Developer"
+  },{
+    "_id":4,
+    "name": "Natours Tour Management App",
+    "description": "",
+    "title": "Tour guid website for manage selling tour package",
+    "profile_image": "https://i.ibb.co/yfVL2WJ/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-Tour-Manegments-index-html-2024-01-21-10.png",
+    "image_array": ["https://i.ibb.co/yfVL2WJ/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-Tour-Manegments-index-html-2024-01-21-10.png"
+        ],
+    "live_link": "https://ryd-tour-type.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/TourNest-Tour-Projects",
+    "technology_list": ["HTML", "CSS","SCSS"],
+    "duration": "3 Days",
+    "role": "Front End Developer"
+  },{
+    "_id":5,
+    "name": "Open Source Contribution, Before I Die ",
+    "description": "",
+    "title": "My First Open source contribution, Change Home Page Design ",
+    "profile_image": "https://i.ibb.co/XtKHXNf/screencapture-localhost-3001-2024-01-21-10-36-53.png",
+    "image_array": [
+                    "https://i.ibb.co/XtKHXNf/screencapture-localhost-3001-2024-01-21-10-36-53.png"
+                ],
+    "live_link": "https://before-i-die-achievements.vercel.app/",
+    "Github_link": "https://before-i-die-achievements.vercel.app/",
+    "technology_list": ["React", "Firebase","Tailwind CSS"],
+    "duration": "5 Days",
+    "role": "Contributor"
+  },{
+    "_id":6,
+    "name": "Online Present and Class Test Mark Management System ",
+    "description": "",
+    "title": "University teacher and Student collaboration System. Where Class test mark and Present can be monitoring ",
+    "profile_image": "https://i.ibb.co/bFvWBQ8/screencapture-localhost-3000-home-2024-01-21-12-18-48.png",
+    "image_array": [ "https://i.ibb.co/bFvWBQ8/screencapture-localhost-3000-home-2024-01-21-12-18-48.png",
+    "https://i.ibb.co/rGsMhjx/screencapture-localhost-3000-create-course-2024-01-21-12-26-41.png",
+"https://i.ibb.co/GCb1PX7/screencapture-localhost-3000-register-2024-01-21-12-26-06.png",
+"https://i.ibb.co/QCrLxC4/screencapture-localhost-3000-courses-2024-01-21-12-24-41.png",
+"https://i.ibb.co/YdjJSYg/screencapture-localhost-3000-teachers-2024-01-21-12-23-40.png",
+"https://i.ibb.co/VLY1BsM/screencapture-localhost-3000-students-2024-01-21-12-23-25.png",
+"https://i.ibb.co/bFvWBQ8/screencapture-localhost-3000-home-2024-01-21-12-18-48.png",
+"https://i.ibb.co/KbT8jd3/screencapture-chrome-extension-fdpohaocaechififmbbbbbknoalclacl-capture-html-2024-01-21-12-18-53.png",
+"https://i.ibb.co/4T96DYF/screencapture-localhost-3000-login-2024-01-21-12-18-25.png"
+],
+    "live_link": "https://department-system.vercel.app/",
+    "Github_link": "https://github.com/RydKrm/React-PHP-MySQL-Tailwind-University-Department-Managment-System",
+    "technology_list": ["HTML","Tailwind CSS","React.js","PHP","MySQL","Axios"],
+    "duration": "2 Month",
+    "role": "Full Stack Developer"
+  },{
+    "_id":7,
+    "name": "Pizza Delivery System",
+    "description": "",
+    "title": "Order and Delivering Pizza into certain location",
+    "profile_image": "https://i.ibb.co/4Kmm8wW/screencapture-localhost-3000-menu-2024-01-21-12-50-02.png",
+    "image_array": [ "https://i.ibb.co/4Kmm8wW/screencapture-localhost-3000-menu-2024-01-21-12-50-02.png",
+    "https://i.ibb.co/6r4S5Q3/screencapture-localhost-3000-order-ZDC41-M-2024-01-21-12-51-38.png",
+    "https://i.ibb.co/T8wrzmY/screencapture-localhost-3000-order-ZDC41-M-2024-01-21-12-51-20.png",
+    "https://i.ibb.co/B4FGKBv/screencapture-localhost-3000-order-new-2024-01-21-12-51-07.png",
+    "https://i.ibb.co/jr4Q05J/screencapture-localhost-3000-cart-2024-01-21-12-50-26.png",
+    "https://i.ibb.co/4Kmm8wW/screencapture-localhost-3000-menu-2024-01-21-12-50-02.png"
+
+],
+    "live_link": "https://react-redux-tailwind-pizza-ordering-app.vercel.app/menu",
+    "Github_link": "https://github.com/RydKrm/React-Redux-Tailwind-Pizza-Ordering-App",
+    "technology_list": ["HTML","Tailwind CSS","React.js","Redux","JSON Server"],
+    "duration": "12 Days",
+    "role": "Front End Developer"
+  },{
+    "_id":8,
+    "name": "Open Source Contribution, Before I Die ",
+    "description": "",
+    "title": "My First Open source contribution, Change Home Page Design ",
+    "profile_image": "https://i.ibb.co/XtKHXNf/screencapture-localhost-3001-2024-01-21-10-36-53.png",
+    "image_array": [
+                    "https://i.ibb.co/XtKHXNf/screencapture-localhost-3001-2024-01-21-10-36-53.png"
+                ],
+    "live_link": "https://before-i-die-achievements.vercel.app/",
+    "Github_link": "https://before-i-die-achievements.vercel.app/",
+    "technology_list": ["React", "Firebase","Tailwind CSS"],
+    "duration": "5 Days",
+    "role": "Contributor"
+    },{
+      "_id":9,
+    "name": "ICEian Department Management Project ",
+    "description": "",
+    "title": "For connecting all student in ICE department, RU",
+    "profile_image": "https://i.ibb.co/yQG7Qjk/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-web-for-ice-index-html-2024.png",
+    "image_array": [
+                    "https://i.ibb.co/VJ52DJL/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-web-for-ice-programming-pror.png",
+                    "https://i.ibb.co/VJ52DJL/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-web-for-ice-programming-pror.png",
+                    "https://i.ibb.co/n6hGnNV/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-web-for-ice-programming-prog.png",
+                    "https://i.ibb.co/Lk2sZgK/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-web-for-ice-students-student.png",
+                    "https://i.ibb.co/yQG7Qjk/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-web-for-ice-index-html-2024.png"
+
+                ],
+    "live_link": "https://ryd-ice-department-project.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Department_Manegement_Project",
+    "technology_list": ["HTML","CSS", "Bootstrap"],
+    "duration": "5 Days",
+    "role": "Contributor"
+  },{
+    "_id":10,
+    "name": "HR Product Showcase ",
+    "description": "",
+    "title": "Sells Product by creating Shop and Buying Product ",
+    "profile_image": "https://i.ibb.co/b5wpmwQ/screencapture-ryd-hr-2-project-netlify-app-2024-01-23-16-15-11.png",
+    "image_array": [ "https://i.ibb.co/b5wpmwQ/screencapture-ryd-hr-2-project-netlify-app-2024-01-23-16-15-11.png"],
+    "live_link": "https://ryd-hr-2-project.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/HR-2_Project",
+    "technology_list": ["HTML","CSS", "Bootstrap"],
+    "duration": "5 Days",
+    "role": "Front End Design"
+  },{
+    "_id":11,
+    "name": "Fruit Shop  ",
+    "description": "",
+    "title": "Sells fresh  fruit in the market ",
+    "profile_image": "https://i.ibb.co/b5wpmwQ/screencapture-ryd-hr-2-project-netlify-app-2024-01-23-16-15-11.png",
+    "image_array": [ "https://i.ibb.co/b5wpmwQ/screencapture-ryd-hr-2-project-netlify-app-2024-01-23-16-15-11.png"],
+    "live_link": "https://rydfreshfruitshop.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Fruit_Shop",
+    "technology_list": ["HTML","CSS", "Bootstrap"],
+    "duration": "5 Days",
+    "role": "Front End Design"
+  },{
+    "_id":12,
+    "name": "Sport Training and Club",
+    "description": "",
+    "title": "Sells fresh  fruit in the market ",
+    "profile_image": "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png",
+    "image_array": [ "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png"],
+    "live_link": "https://rydsportapp.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Sport_App",
+    "technology_list": ["HTML","CSS", "Bootstrap"],
+    "duration": "5 Days",
+    "role": "Front End Design"
+  },{
+    "_id":13,
+    "name": "Fruit Bazar ",
+    "description": "",
+    "title": "Creating shop and Sells fresh fruit in the market ",
+    "profile_image": "https://i.ibb.co/v1CDb7c/screencapture-localhost-3000-home-2024-01-21-11-41-42-1.png",
+    "image_array": [ "https://i.ibb.co/v1CDb7c/screencapture-localhost-3000-home-2024-01-21-11-41-42-1.png",
+    "https://i.ibb.co/LZ2xN9Z/screencapture-localhost-3000-shop-2024-01-21-11-20-10.png",
+    "https://i.ibb.co/5nkKR2d/screencapture-localhost-3000-contact-2024-01-21-11-43-56.png",
+    "https://i.ibb.co/Wtbj9YQ/screencapture-localhost-3000-gallery-2024-01-21-11-43-32.png",
+    "https://i.ibb.co/tYy48rz/screencapture-localhost-3000-about-2024-01-21-11-42-52.png",
+    "https://i.ibb.co/v1CDb7c/screencapture-localhost-3000-home-2024-01-21-11-41-42-1.png"
+],
+    "live_link": "https://rydfruitbazer.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Fruit_Shop",
+    "technology_list": ["React.js","Tailwind CSS","Firebase in Back End"],
+    "duration": "10 Days",
+    "role": "Front End Design and Firebase "
+  },{
+    "_id":14,
+    "name": "NITEX Project",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png",
+    "image_array": [ "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png"],
+    "live_link": "https://ryd-nitex-project.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/NITEX_Projects",
+    "technology_list": ["HTML","CSS", "SCSS", "React.js"],
+    "duration": "5 Days",
+    "role": "Front End Design"
+  },{
+    "_id":15,
+    "name": "Mizuxe Project ",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png",
+    "image_array": [ "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png"],
+    "live_link": "https://ryd-mizuxe.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Mizuxe/",
+    "technology_list": ["HTML","CSS"],
+    "duration": "5 Days",
+    "role": "Front End Design"
+  },{
+    "_id":16,
+    "name": "Tailwind CSS Mini Projects ",
+    "description": "",
+    "title": "Some Mini Project Build for fun and learning Tailwind CSS ",
+    "profile_image": "https://i.ibb.co/p1spSGM/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-Test-Projct-Tailwind-mini-pr.png",
+    "image_array": [ "https://i.ibb.co/p1spSGM/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-Test-Projct-Tailwind-mini-pr.png",
+    "https://i.ibb.co/sKLMXGf/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-Test-Projct-Tailwind-mini-pr.png",
+    "https://i.ibb.co/h1B73P5/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-Test-Projct-Tailwind-mini-pr.png",
+    "https://i.ibb.co/yd3Ps4D/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-Projects-ICE-Projects-Test-Projct-Tailwind-mini-pr.png"
+],
+    "live_link": "https://ryd-mini-projects.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Mini_Projects/",
+    "technology_list": ["HTML","CSS","Tailwind CSS"],
+    "duration": "5 Days",
+    "role": "Front End Design"
+  },{
+    "_id":17,
+    "name": "World Wise Tour Tracking App ",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/Lgc9zND/screencapture-localhost-5173-2024-01-21-10-42-50.png",
+    "image_array": [ 
+        "https://i.ibb.co/Lgc9zND/screencapture-localhost-5173-2024-01-21-10-42-50.png",
+        "https://i.ibb.co/440kTHh/screencapture-localhost-5173-pricing-2024-01-21-10-43-05.png",
+        "https://i.ibb.co/6P7KR4n/screencapture-localhost-5173-product-2024-01-21-10-43-19.png",
+        "https://i.ibb.co/721dPJ5/screencapture-localhost-5173-app-countries-2024-01-21-10-43-35.png",
+        "https://i.ibb.co/4TfCvMY/screencapture-localhost-5173-app-countries-2024-01-21-10-43-52.png",
+        "https://i.ibb.co/j6Gs4zC/screencapture-localhost-5173-app-countries-2024-01-21-10-43-52-1.png"
+    ],
+    "live_link": "https://ryd-world-wise.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/World_Wise",
+    "technology_list": ["HTML","CSS"],
+    "duration": "5 Days",
+    "role": "Front End Design"
+  },{
+    "_id":18,
+    "name": "Loop lab Project ",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/7zrd6Gk/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-project-Loop-LAB-index2-html.png",
+    "image_array": [ "https://i.ibb.co/7zrd6Gk/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-project-Loop-LAB-index2-html.png"],
+    "live_link": "https://ryd-looplab.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Loop_Lab",
+    "technology_list": ["HTML","CSS"],
+    "duration": "3 Days",
+    "role": "Front End Design"
+  },{
+    "_id":19,
+    "name": "Let It Be Project ",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/RQbWkfJ/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-web-Site-making-Bootstrap-we.png",
+    "image_array": [ "https://i.ibb.co/RQbWkfJ/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-web-Site-making-Bootstrap-we.png"],
+    "live_link": "https://ryd-let-it-be.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Let_It_be",
+    "technology_list": ["HTML","CSS"],
+    "duration": "2 Days",
+    "role": "Front End Design"
+  },{
+    "_id":20,
+    "name": "Gloozom Project ",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/rQztpbh/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-project-New-folder-2-index-h.png",
+    "image_array": [ "https://i.ibb.co/rQztpbh/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-project-New-folder-2-index-h.png"],
+    "live_link": "https://ryd-gloozom.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/Gloozom/",
+    "technology_list": ["HTML","CSS"],
+    "duration": "2 Days",
+    "role": "Front End Design"
+  },{
+    "_id":21,
+    "name": "Task Management App",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
+    "image_array": [ "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
+    "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
+    "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png"
+    ],
+    "live_link": "https://chat-chef-task-management-system.vercel.app/",
+    "Github_link": "https://github.com/RydKrm/chat-chef-task",
+    "technology_list": ["Next.js","Redux","Tailwind CSS","JSON Server"],
+    "duration": "2 Days",
+    "role": "Full Stack Developer"
+  },{
+    "_id":22,
+    "name": "React quiz app ",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/wQTfzCz/screencapture-localhost-3000-2024-01-21-10-51-38.png",
+    "image_array": [ "https://i.ibb.co/wQTfzCz/screencapture-localhost-3000-2024-01-21-10-51-38.png",
+    "https://i.ibb.co/mzNjM2Q/screencapture-localhost-3000-2024-01-21-10-52-15.png"],
+    "live_link": "https://ryd-quiz-app.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/React_Reducer_quiz_app",
+    "technology_list": ["HTML","Tailwind CSS","React.js"],
+    "duration": "2 Days",
+    "role": "Front End Design"
+  }
+
+]

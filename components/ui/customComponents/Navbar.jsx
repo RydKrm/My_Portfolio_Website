@@ -9,16 +9,6 @@ const Navbar = () => {
       <div className="container flex items-center justify-between mx-auto">
         <Link href="/" className="text-xl font-bold text-c_secondary hover:text-c_ternary ">
           <h1 className='text-4xl gradient-text'>Ryd  </h1> </Link>
-
-        {/* Navbar links (responsive)
-        <div className="hidden space-x-4 md:flex text-c_secondary">
-          <Link href="#" className=" hover:text-c_ternary">Home</Link>
-          <Link href="#" className=" hover:text-c_ternary">About</Link>
-          <Link href="#" className=" hover:text-c_ternary">Services</Link>
-          <Link href="#" className=" hover:text-c_ternary">Contact</Link>
-        </div> */}
-
-        {/* Responsive menu button */}
         <div className="">
           <button
             onClick={() => setMenuOpen(!menuOpen)}
