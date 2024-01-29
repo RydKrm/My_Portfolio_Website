@@ -17,18 +17,18 @@ const Project1 = ({project}) => {
         </div>
       <div className="w-full lg:w-1/2">
         <div className="flex flex-col ms-8">
-          <Link href={`/project/${project._id}`} className='mt-10 mb-4 text-4xl font-medium hover:text-c_ternary'> {project.name}</Link>
+          {project._id && <Link href={`/project/${project._id}`} className='mt-10 mb-4 text-4xl font-medium hover:text-c_ternary'> {project.name}</Link>}
           <p className='text-gray-300 p_light'>{project.title}</p>
            <div className="flex flex-row mt-5 mb-3">
-             <Link href={project.live_link} className='px-3 py-1 rounded-md bg-c_primary me-3' >Live Link </Link>
+            {project.live_link &&  <Link href={project.live_link} className='px-3 py-1 rounded-md bg-c_primary me-3' >Live Link </Link> }
              {project.Github_link && <Link href={project.Github_link} className='px-3 py-1 rounded-md bg-c_secondary me-3' >Github Code </Link>}
              {project.client_link && <Link href={project.client_link} className='px-3 py-1 rounded-md bg-c_secondary me-3' >Client Code </Link>}
              {project.server_link && <Link href={project.server_link} className='px-3 py-1 rounded-md bg-c_ternary me-3' >Server Code </Link>}
            </div>
           <p className='mt-3 text-base font-semibold text-[#60A5FA]'>Technologies</p>
-           <div className="flex flex-col mt-2 md:flex-row">
+           <div className="grid grid-cols-4 mt-2 text-center gap-y-3 md:flex-row">
             {
-              project.technology_list.map(tech => <span key={tech} class="inline-block select-none px-3 py-1 uppercase no-underline bg-c_secondary/10 hover:bg-c_secondary/20 text-c_secondary m-0.5 font-mono text-sm lg:mr-2">{tech}</span> )
+              project.technology_list.map(tech => <span key={tech} class="inline-block select-none px-3 py-1 uppercase no-underline bg-c_secondary/10 hover:bg-c_secondary/20 text-c_secondary m-0.5 font-mono text-sm lg:mr-2 ">{tech}</span> )
             }
             
           </div> 

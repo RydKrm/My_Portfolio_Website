@@ -45,8 +45,8 @@ export default function Home() {
    </div>
 
      </div>
-     <div className="w-1/2 mr-24 lg:mt-20">
-      <Image src='/image/profile-image.webp' alt="Profile Image " width={1020} height={1024} className="w-[500px] h-[618px] " />
+     <div className="w-1/2 mr-12 lg:mt-20">
+      <Image src='/image/profile.JPG' alt="Profile Image " width={1020} height={1024} className="w-[450px] h-[561px] rounded-md" />
      </div>
      </div>
      {/* <div className="grid grid-cols-1 pb-16 mt-10 md:grid-cols-2 lg:grid-cols-4 lg:ml-28">

@@ -63,7 +63,7 @@
     "duration": "Running",
     "role": "Next.js Developer"
   },{
-    "_id":3,
+    "_id":23,
     "name": "Threadzone Multi-vendor E-commerce Website",
     "description": "",
     "title": "Sells Product by creating Shop and Buying Product ",
@@ -141,7 +141,6 @@
     "https://i.ibb.co/B4FGKBv/screencapture-localhost-3000-order-new-2024-01-21-12-51-07.png",
     "https://i.ibb.co/jr4Q05J/screencapture-localhost-3000-cart-2024-01-21-12-50-26.png",
     "https://i.ibb.co/4Kmm8wW/screencapture-localhost-3000-menu-2024-01-21-12-50-02.png"
-
 ],
     "live_link": "https://react-redux-tailwind-pizza-ordering-app.vercel.app/menu",
     "Github_link": "https://github.com/RydKrm/React-Redux-Tailwind-Pizza-Ordering-App",
