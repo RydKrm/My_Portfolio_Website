@@ -148,6 +148,34 @@
     "duration": "12 Days",
     "role": "Front End Developer"
   },{
+    "_id":21,
+    "name": "Task Management App",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
+    "image_array": [ "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
+    "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
+    "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png"
+    ],
+    "live_link": "https://chat-chef-task-management-system.vercel.app/",
+    "Github_link": "https://github.com/RydKrm/chat-chef-task",
+    "technology_list": ["Next.js","Redux","Tailwind CSS","JSON Server"],
+    "duration": "2 Days",
+    "role": "Full Stack Developer"
+  },{
+    "_id":22,
+    "name": "React quiz app ",
+    "description": "",
+    "title": "Fun Projects ",
+    "profile_image": "https://i.ibb.co/wQTfzCz/screencapture-localhost-3000-2024-01-21-10-51-38.png",
+    "image_array": [ "https://i.ibb.co/wQTfzCz/screencapture-localhost-3000-2024-01-21-10-51-38.png",
+    "https://i.ibb.co/mzNjM2Q/screencapture-localhost-3000-2024-01-21-10-52-15.png"],
+    "live_link": "https://ryd-quiz-app.netlify.app/",
+    "Github_link": "https://github.com/RydKrm/React_Reducer_quiz_app",
+    "technology_list": ["HTML","Tailwind CSS","React.js"],
+    "duration": "2 Days",
+    "role": "Front End Design"
+  },{
     "_id":8,
     "name": "Open Source Contribution, Before I Die ",
     "description": "",
@@ -251,8 +279,8 @@
     "name": "Mizuxe Project ",
     "description": "",
     "title": "Fun Projects ",
-    "profile_image": "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png",
-    "image_array": [ "https://i.ibb.co/6P3Hf9D/screencapture-rydsportapp-netlify-app-2024-01-23-16-11-24.png"],
+    "profile_image": "https://i.ibb.co/FJ3NCKD/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-project-Mizuxe-index2-html-2.png",
+    "image_array": [ "https://i.ibb.co/FJ3NCKD/screencapture-file-media-ryd-AAC2-F8-C2-C2-F89433-others-New-folder-Web-project-Mizuxe-index2-html-2.png"],
     "live_link": "https://ryd-mizuxe.netlify.app/",
     "Github_link": "https://github.com/RydKrm/Mizuxe/",
     "technology_list": ["HTML","CSS"],
@@ -327,34 +355,6 @@
     "live_link": "https://ryd-gloozom.netlify.app/",
     "Github_link": "https://github.com/RydKrm/Gloozom/",
     "technology_list": ["HTML","CSS"],
-    "duration": "2 Days",
-    "role": "Front End Design"
-  },{
-    "_id":21,
-    "name": "Task Management App",
-    "description": "",
-    "title": "Fun Projects ",
-    "profile_image": "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
-    "image_array": [ "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
-    "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png",
-    "https://i.ibb.co/CQjznvH/screencapture-localhost-3000-2024-01-21-11-48-59-1.png"
-    ],
-    "live_link": "https://chat-chef-task-management-system.vercel.app/",
-    "Github_link": "https://github.com/RydKrm/chat-chef-task",
-    "technology_list": ["Next.js","Redux","Tailwind CSS","JSON Server"],
-    "duration": "2 Days",
-    "role": "Full Stack Developer"
-  },{
-    "_id":22,
-    "name": "React quiz app ",
-    "description": "",
-    "title": "Fun Projects ",
-    "profile_image": "https://i.ibb.co/wQTfzCz/screencapture-localhost-3000-2024-01-21-10-51-38.png",
-    "image_array": [ "https://i.ibb.co/wQTfzCz/screencapture-localhost-3000-2024-01-21-10-51-38.png",
-    "https://i.ibb.co/mzNjM2Q/screencapture-localhost-3000-2024-01-21-10-52-15.png"],
-    "live_link": "https://ryd-quiz-app.netlify.app/",
-    "Github_link": "https://github.com/RydKrm/React_Reducer_quiz_app",
-    "technology_list": ["HTML","Tailwind CSS","React.js"],
     "duration": "2 Days",
     "role": "Front End Design"
   }

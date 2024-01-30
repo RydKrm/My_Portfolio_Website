@@ -18,7 +18,7 @@ const Skill = () => {
           </div>
       <div className="mx-12 mt-10">
         <h2 className="mt-4 mb-6 gradient-text">About My Full Stack Journey </h2>
-        <p className=" p_light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta maiores, commodi laborum nisi assumenda molestiae aperiam maxime voluptatibus eius quis expedita vero sit et quo excepturi perferendis quos impedit tempore repudiandae? Odit fuga sed harum aspernatur quam consequuntur qui vero?</p>
+        <p className="text-justify  p_light">Dedicated competitive programmer and proficient web developer with a proven track record of solving complex algorithmic challenges and building dynamic web applications. I have a deep understanding of data structures, algorithms, and problem-solving techniques and a solid foundation in front-end and back-end development. Driven by a desire for continuous learning, I am committed to achieving technological advancements while updating my skills to create innovative web applications</p>
       </div>
         </div>
         <div className="w-full lg:w-2/3 ms-10">

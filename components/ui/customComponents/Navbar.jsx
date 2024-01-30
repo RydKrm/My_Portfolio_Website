@@ -14,8 +14,7 @@ const Navbar = () => {
         <div className="md:hidden">
           <button
             onClick={() => setMenuOpen(!menuOpen)}
-            className="text-white focus:outline-none"
-          >
+            className="text-white focus:outline-none"  >
             <svg
               className="w-6 h-6"
               fill="none"
@@ -28,7 +27,7 @@ const Navbar = () => {
           </button>
         </div>
         {/* Large devices navigation links */}
-        <div className="hidden md:flex md:space-x-4">
+        <div className="hidden md:flex md:space-x-4 ">
           <Link href="/" className="text-c_secondary hover:text-c_ternary">Home</Link>
           <Link href="/competitive" className="text-c_secondary hover:text-c_ternary">Competitive</Link>
           <Link href="/project" className="text-c_secondary hover:text-c_ternary">Projects</Link>

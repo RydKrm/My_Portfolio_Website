@@ -13,7 +13,7 @@ const BackEndSkill = () => {
                 <FontAwesomeIcon icon={faNodeJs} className='w-8 h-8 text-gray-500' />
                 <p className='mt-1 text-base font-semibold ms-2 me-6'>Node.js</p>
                 <div className="flex flex-row mt-2">
-                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/>
+                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> 
                 </div>
               </div>
               <div className="flex flex-row justify-between w-56 mb-3">
@@ -21,14 +21,14 @@ const BackEndSkill = () => {
                 <img width="32" height="32" className='text-gray-500 bg-gray-500' src="https://img.icons8.com/color/48/000000/express-js.png" alt="express-js"/>
                 <p className='mt-1 text-base font-semibold ms-2 me-6'> Express.js </p>
                 <div className="flex flex-row mt-2">
-                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/>
+                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> 
                 </div>
               </div>
                <div className="flex flex-row justify-between w-56 mb-3">
                 <FontAwesomeIcon icon={faPhp} className='w-8 h-8 text-gray-500' />
                 <p className='mt-1 text-base font-semibold ms-2 me-6'>PHP</p>
                 <div className="flex flex-row mt-2">
-                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/>
+                    <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/> <DownSkill/>
                 </div>
               </div>
               <div className="flex flex-row justify-between w-56 mb-3">
@@ -36,14 +36,14 @@ const BackEndSkill = () => {
                 <i ></i>
                 <p className='mt-1 text-base font-semibold ms-2 me-6'>Java</p>
                 <div className="flex flex-row mt-2">
-                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/>
+                    <UpSkill/> <UpSkill/> <DownSkill/> <DownSkill/> <DownSkill/>
                 </div>
               </div>
               <div className="flex flex-row justify-between w-56 mb-3">
                 <FontAwesomeIcon icon={faC} className='w-8 h-8 text-gray-500' />
                 <p className='mt-1 text-base font-semibold ms-2 me-6'>C</p>
                 <div className="flex flex-row mt-2">
-                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/>
+                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/>
                 </div>
               </div>
               <div className="flex flex-row justify-between w-56 mb-3">
@@ -51,7 +51,7 @@ const BackEndSkill = () => {
                 <img width="32" height="32" className='text-gray-500 bg-gray-500' src="https://img.icons8.com/ios/50/c-plus-plus.png" alt="c-plus-plus"/>
                 <p className='mt-1 text-base font-semibold ms-2 me-6'>C++</p>
                 <div className="flex flex-row mt-2">
-                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/>
+                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/>
                 </div>
               </div>
               <div className="flex flex-row justify-between w-56 mb-3">
@@ -59,7 +59,7 @@ const BackEndSkill = () => {
                 <img width="32" height="32" className='text-gray-500 bg-gray-500' src="https://img.icons8.com/ios/50/python.png" alt="python"/>
                 <p className='mt-1 text-base font-semibold ms-2 me-6'>Python</p>
                 <div className="flex flex-row mt-2">
-                    <UpSkill/> <UpSkill/> <UpSkill/> <UpSkill/> <DownSkill/>
+                    <UpSkill/> <UpSkill/> <DownSkill/> <DownSkill/> <DownSkill/>
                 </div>
               </div>
               {/* <div className="flex flex-row mb-3">
