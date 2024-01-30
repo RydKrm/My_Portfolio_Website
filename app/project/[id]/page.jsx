@@ -27,7 +27,7 @@ const Page = () => {
        <div className="flex flex-col self-center mx-auto md:flex-row w-[420px] mb-10">
         <p className="text-gray-300 mt-7 me-5 p_light">Al Riyad Karim</p>
         <Image src='/image/profile.JPG' 
-        className='w-20 h-20 rounded-full ring-2 gradient-border'
+        className='w-16 h-16 rounded-full ring-2 gradient-border'
         alt='project picture ' 
         width={321} height={321} 
         />

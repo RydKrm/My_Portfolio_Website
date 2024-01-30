@@ -1,4 +1,4 @@
-import { faFacebook, faGithub, faJs, faLinkedinIn, faNodeJs, faReact } from "@fortawesome/free-brands-svg-icons";
+import { faFacebook, faGithub, faLinkedinIn} from "@fortawesome/free-brands-svg-icons";
 import { faChevronRight, faCode, faMinus } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Image from "next/image";
@@ -29,18 +29,18 @@ export default function Home() {
      <div className="flex flex-col border md:flex-row gradient-border  lg:w-[700px] mt-8 bg_content_dark z-20 pb-6 ">
       <div className="flex flex-row mt-4 mr-8 ms-5">
         <h2 className="mr-3 text-5xl font-bold text-c_primary">34+</h2>
-        <p className="mt-3 text-sm">Live Projects</p>
+        <p className="mt-1 text-sm">Live Projects</p>
       </div>
       <div className="flex flex-row mt-4 mr-8 ms-5">
         <h2 className="mr-3 text-5xl font-bold text-c_secondary">1+</h2>
-        <p className="mt-3 text-sm">Years of Experience</p>
+        <p className="mt-1 text-sm">Years of Experience</p>
       </div>
       <div className="flex flex-row mt-4 mr-8 ms-5">
-        <h2 className="mr-3 text-5xl font-bold text-c_ternary">6</h2>
-        <p className="mt-3 text-sm">Open Source Library</p>
+        <h2 className="mr-3 text-5xl font-bold text-c_ternary">600+</h2>
+        <p className="mt-1 text-sm">Problem Solve</p>
       </div>
      </div>
-     <div className='relative w-56 mt-10 h-14 bg-gradient-to-t from-c_secondary to-c_ternary'>
+     <div className='relative w-56 mt-10 mb-24 h-14 bg-gradient-to-t from-c_secondary to-c_ternary'>
     <button className='absolute w-56 font-sans text-black transition-all duration-200 bg-white btn-main -top-2 -left-2 h-14 hover:top-0 hover:left-0'>Download CV</button>
    </div>
 
@@ -49,12 +49,7 @@ export default function Home() {
       <Image src='/image/profile.JPG' alt="Profile Image " width={1020} height={1024} className="w-[450px] h-[561px] rounded-md" />
      </div>
      </div>
-     {/* <div className="grid grid-cols-1 pb-16 mt-10 md:grid-cols-2 lg:grid-cols-4 lg:ml-28">
-       <h2>Expert List </h2>
-       <FontAwesomeIcon className="w-10 h-10 " icon={faReact} />
-       <FontAwesomeIcon className="w-10 h-10 " icon={faNodeJs} />
-       <FontAwesomeIcon className="w-10 h-10 " icon={faJs} />
-     </div> */}
+     
    </div>
   )
 }
